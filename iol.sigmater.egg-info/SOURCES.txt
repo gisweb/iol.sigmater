@@ -1,0 +1,15 @@
+README.txt
+setup.cfg
+setup.py
+iol/__init__.py
+iol.sigmater.egg-info/PKG-INFO
+iol.sigmater.egg-info/SOURCES.txt
+iol.sigmater.egg-info/dependency_links.txt
+iol.sigmater.egg-info/entry_points.txt
+iol.sigmater.egg-info/namespace_packages.txt
+iol.sigmater.egg-info/not-zip-safe
+iol.sigmater.egg-info/paster_plugins.txt
+iol.sigmater.egg-info/requires.txt
+iol.sigmater.egg-info/top_level.txt
+iol/sigmater/__init__.py
+iol/sigmater/tests.py
